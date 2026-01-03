@@ -175,7 +175,7 @@ This project demonstrates:
 
 👤 Author
 Aniruddha Kumar
-Data Scientist | Backend & API Enthusiast
+
 
 📝 License
 This project is for learning and educational purposes.
